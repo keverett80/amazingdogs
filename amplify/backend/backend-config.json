@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amazingdogs63eb9d34": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
